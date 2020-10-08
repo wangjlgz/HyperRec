@@ -19,7 +19,7 @@ python==3.6.8
 Please cite our paper if you use this code in your own work:
 
 ```
-@inproceedings{wang2020time,
+@inproceedings{wang2020next,
   title={Next-item Recommendation with Sequential Hypergraphs},
   author={Wang, Jianling and Ding, Kaize and Hong, Liangjie and Liu, Huan and Caverlee, James},
   booktitle={SIGIR},
