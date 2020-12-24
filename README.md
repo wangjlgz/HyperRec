@@ -1,7 +1,7 @@
 Next-item Recommendation with Sequential Hypergraphs(SIGIR2020)
 ============
 
-## CuRe
+## HyperRec
 
 Code of paper "[Next-item Recommendation with Sequential Hypergraphs](http://people.tamu.edu/~jwang713/pubs/HyperRec-sigir2020.pdf)".
 
